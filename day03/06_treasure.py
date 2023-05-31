@@ -145,7 +145,7 @@ treasure = '''
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣷⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-THIS IS A MASSAGE GIFT CARD :D
+
 '''
 
 print("You are in a dense and dark forest.")
